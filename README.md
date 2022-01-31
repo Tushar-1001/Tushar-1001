@@ -7,7 +7,7 @@
     height="300" /> <br />
 <p>&nbsp;<br /></p>
 
-<p>
+
 - 🔭 I’m currently working on **Some backend projects** <br>
 - 🌱 I’m currently learning **nodeJs,MongoDB,Express,Redis** <br>
 - 👯 I’m looking to collaborate for **more backend projects** <br>
@@ -16,7 +16,7 @@
 - 📫 How to reach me `sainitushar51@gmail.com` <br>
 - 📄 Know about my experiences "[https://drive.google.com/file/d/1OTRwIb7KVDgKKLSH-opYNaJ_mzPGpvwg/view?usp=sharing]"
 
-</p>
+
     <h3><span>Connect with me:</span> </h3>
 <p align="left" target="_blank">
     <a href="linkedin.com/in/tusharsaini1001" >
