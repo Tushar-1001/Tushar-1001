@@ -55,7 +55,7 @@
             height="40" /> </a>&nbsp; <a href="https://redis.io" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
             alt="redis" width="40" height="40" /> </a> </p>
-<p><img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-1001&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+<p><img height="200" width ="400"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-1001&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
 <p> </p>
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=tushar-1001&show_icons=true&locale=en"
