@@ -7,7 +7,6 @@
     height="300" /> <br />
 <p>&nbsp;<br /></p>
 
-
 - 🔭 I’m currently working on **Some backend projects** <br>
 - 🌱 I’m currently learning **nodeJs,MongoDB,Express,Redis** <br>
 - 👯 I’m looking to collaborate for **more backend projects** <br>
