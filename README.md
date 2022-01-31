@@ -19,7 +19,7 @@
 
     <h3><span>Connect with me:</span> </h3>
 <p align="left" target="_blank">
-    <a href="linkedin.com/in/tusharsaini1001" >
+    <a target = '_blank' href="https://www.linkedin.com/in/tusharsaini1001?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BSW7uFOVSUalO5EcUBRYkg%3D%3D" >
         <img alt=" Linkedin"
             src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="50"
             height="50" target="_blank">
