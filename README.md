@@ -8,12 +8,12 @@
 <p>&nbsp;<br /></p>
 
 <p>
-- 🔭 I’m currently working on **Some backend projects**
-- 🌱 I’m currently learning **nodeJs,MongoDB,Express,Redis**
-- 👯 I’m looking to collaborate for **more backend projects**
-- 🤝 I’m looking for help to **enhance my skills**
-- 💬 Ask me about **JavaScript,Backend topics.**
-- 📫 How to reach me `sainitushar51@gmail.com`
+- 🔭 I’m currently working on **Some backend projects** <br>
+- 🌱 I’m currently learning **nodeJs,MongoDB,Express,Redis** <br>
+- 👯 I’m looking to collaborate for **more backend projects** <br>
+- 🤝 I’m looking for help to **enhance my skills** <br>
+- 💬 Ask me about **JavaScript,Backend topics.** <br>
+- 📫 How to reach me `sainitushar51@gmail.com` <br>
 - 📄 Know about my experiences "[https://drive.google.com/file/d/1OTRwIb7KVDgKKLSH-opYNaJ_mzPGpvwg/view?usp=sharing]"
 
 </p>
