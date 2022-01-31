@@ -14,10 +14,9 @@
 - 🤝 I’m looking for help to **enhance my skills**
 - 💬 Ask me about **JavaScript,Backend topics.**
 - 📫 How to reach me `sainitushar51@gmail.com`
-- 📄 Know about my experiences
+- 📄 Know about my experiences "[https://drive.google.com/file/d/1OTRwIb7KVDgKKLSH-opYNaJ_mzPGpvwg/view?usp=sharing]"
 
 </p>
-"[https://drive.google.com/file/d/1OTRwIb7KVDgKKLSH-opYNaJ_mzPGpvwg/view?usp=sharing]"
     <h3><span>Connect with me:</span> </h3>
 <p align="left" target="_blank">
     <a href="linkedin.com/in/tusharsaini1001" >
