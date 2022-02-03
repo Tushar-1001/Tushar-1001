@@ -55,7 +55,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
             alt="redis" width="40" height="40" /> </a> </p>
             
-            <p align="left">
+   <p align="left">
   <a href="https://www.codewars.com/users/Tushar%20Saini">
     <img src="https://www.codewars.com/users/Tushar%20Saini/badges/small" />
   </a>
