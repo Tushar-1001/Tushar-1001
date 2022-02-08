@@ -60,8 +60,8 @@
     <img src="https://www.codewars.com/users/Tushar%20Saini/badges/small" />
   </a>
 </p>  
-<p><img height="200" width ="400"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-1001&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
-<p> </p>
+<!-- <p><img height="200" width ="400"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-1001&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+<p> </p> -->
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=tushar-1001&show_icons=true&locale=en"
         alt="tushar-1001" /></p> <br />
