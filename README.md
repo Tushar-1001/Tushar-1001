@@ -13,7 +13,7 @@
 - 🤝 I’m looking for help to **enhance my skills** <br>
 - 💬 Ask me about **JavaScript,Backend topics.** <br>
 - 📫 How to reach me `sainitushar51@gmail.com` <br>
-- 📄 Know about my experiences - https://tushar-1001.github.io/TusharSaini.github.io/
+- 📄 Know about my experiences - https://tushar-1001.github.io/my-3d-portfolio/
 
 
     <h3><span>Connect with me:</span> </h3>
